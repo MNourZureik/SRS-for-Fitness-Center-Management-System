@@ -1,0 +1,93 @@
+<mxfile host="Electron" modified="2025-01-09T19:06:37.694Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.0.2 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="e6aKbeN96tscdy4g4Jb1" version="23.0.2" type="device">
+  <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
+    <mxGraphModel dx="1151" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RPe8KIVdHWWDtb4dqalr-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RPe8KIVdHWWDtb4dqalr-1" target="RPe8KIVdHWWDtb4dqalr-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="115" y="100" />
+              <mxPoint x="700" y="100" />
+              <mxPoint x="700" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RPe8KIVdHWWDtb4dqalr-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="100" y="64" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RPe8KIVdHWWDtb4dqalr-3" value="Timer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="85" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RPe8KIVdHWWDtb4dqalr-4" value="Cloud Messaging Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="30" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RPe8KIVdHWWDtb4dqalr-5" value="NTP service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="30" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RPe8KIVdHWWDtb4dqalr-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="600" as="sourcePoint" />
+            <mxPoint x="400" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RPe8KIVdHWWDtb4dqalr-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="600" as="sourcePoint" />
+            <mxPoint x="600" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RPe8KIVdHWWDtb4dqalr-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RPe8KIVdHWWDtb4dqalr-9" target="RPe8KIVdHWWDtb4dqalr-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RPe8KIVdHWWDtb4dqalr-9" value="Sync with global timing" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="633" y="120" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RPe8KIVdHWWDtb4dqalr-15" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="100" y="520" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RPe8KIVdHWWDtb4dqalr-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RPe8KIVdHWWDtb4dqalr-16" target="RPe8KIVdHWWDtb4dqalr-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RPe8KIVdHWWDtb4dqalr-20" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RPe8KIVdHWWDtb4dqalr-19">
+          <mxGeometry x="-0.7695" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RPe8KIVdHWWDtb4dqalr-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RPe8KIVdHWWDtb4dqalr-16" target="RPe8KIVdHWWDtb4dqalr-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RPe8KIVdHWWDtb4dqalr-22" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RPe8KIVdHWWDtb4dqalr-21">
+          <mxGeometry x="0.2638" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RPe8KIVdHWWDtb4dqalr-16" value="check if the time hit&lt;br&gt;&amp;nbsp;predefined stored time" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="35" y="180" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RPe8KIVdHWWDtb4dqalr-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RPe8KIVdHWWDtb4dqalr-23" target="RPe8KIVdHWWDtb4dqalr-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RPe8KIVdHWWDtb4dqalr-23" value="fetch users who activated notification service" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="210" y="300" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RPe8KIVdHWWDtb4dqalr-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RPe8KIVdHWWDtb4dqalr-25" target="RPe8KIVdHWWDtb4dqalr-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RPe8KIVdHWWDtb4dqalr-25" value="Generate the notification content" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="210" y="380" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RPe8KIVdHWWDtb4dqalr-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RPe8KIVdHWWDtb4dqalr-27" target="RPe8KIVdHWWDtb4dqalr-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RPe8KIVdHWWDtb4dqalr-27" value="Send notifications to the member using push notification" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="430" y="505" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

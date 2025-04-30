@@ -1,0 +1,147 @@
+<mxfile host="Electron" modified="2025-01-09T18:18:29.802Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.0.2 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="tWN9vVN9BxhziiWoKSOi" version="23.0.2" type="device">
+  <diagram name="Page-1" id="YsAx0a-fZOvdEspAg1TB">
+    <mxGraphModel dx="2702" dy="1767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HhZBf2Nwlb2Q_MQYHaCn-8" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Manage Coach Schedule&amp;nbsp;&lt;/font&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" parent="1" vertex="1">
+          <mxGeometry x="55" y="-100" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HhZBf2Nwlb2Q_MQYHaCn-16" value="" style="line;strokeWidth=1;direction=south;html=1;dashed=1;dashPattern=20 20;" parent="1" vertex="1">
+          <mxGeometry x="170" y="150" width="10" height="1870" as="geometry" />
+        </mxCell>
+        <mxCell id="HhZBf2Nwlb2Q_MQYHaCn-17" value="Administrator" style="text;align=right;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="-20" y="180" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HhZBf2Nwlb2Q_MQYHaCn-19" value="Session Controller " style="text;align=right;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="270" y="180" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HhZBf2Nwlb2Q_MQYHaCn-24" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="HhZBf2Nwlb2Q_MQYHaCn-21" target="HhZBf2Nwlb2Q_MQYHaCn-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HhZBf2Nwlb2Q_MQYHaCn-21" value="" style="ellipse;fillColor=strokeColor;html=1;" parent="1" vertex="1">
+          <mxGeometry x="35" y="270" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HhZBf2Nwlb2Q_MQYHaCn-33" style="edgeStyle=none;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;" parent="1" source="HhZBf2Nwlb2Q_MQYHaCn-22" target="HhZBf2Nwlb2Q_MQYHaCn-34" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HhZBf2Nwlb2Q_MQYHaCn-22" value="Enter coach available working hours and days" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-20" y="360" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HhZBf2Nwlb2Q_MQYHaCn-29" style="edgeStyle=none;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="HhZBf2Nwlb2Q_MQYHaCn-27" target="HhZBf2Nwlb2Q_MQYHaCn-39" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="805" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NogCPBqyMQDwZh9tVgtC-5" style="edgeStyle=none;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;" parent="1" source="HhZBf2Nwlb2Q_MQYHaCn-27" target="NogCPBqyMQDwZh9tVgtC-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="939.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="365" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HhZBf2Nwlb2Q_MQYHaCn-27" value="Check center&lt;br&gt;&amp;nbsp;schedule compatibility" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="277" y="620" width="177" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="HhZBf2Nwlb2Q_MQYHaCn-30" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="250" y="635" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HhZBf2Nwlb2Q_MQYHaCn-32" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="370" y="790" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HhZBf2Nwlb2Q_MQYHaCn-35" style="edgeStyle=none;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HhZBf2Nwlb2Q_MQYHaCn-34" target="HhZBf2Nwlb2Q_MQYHaCn-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="542.3333333333333" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="365" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NogCPBqyMQDwZh9tVgtC-2" style="edgeStyle=none;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="HhZBf2Nwlb2Q_MQYHaCn-34" target="NogCPBqyMQDwZh9tVgtC-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-115" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HhZBf2Nwlb2Q_MQYHaCn-34" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Does working hours&lt;br&gt;&amp;nbsp;reach the required minimum&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-55" y="480" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="HhZBf2Nwlb2Q_MQYHaCn-36" value="&lt;div&gt;&lt;div&gt;Yes&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="230" y="510" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HhZBf2Nwlb2Q_MQYHaCn-38" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-110" y="520" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HhZBf2Nwlb2Q_MQYHaCn-41" style="edgeStyle=none;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HhZBf2Nwlb2Q_MQYHaCn-39" target="HhZBf2Nwlb2Q_MQYHaCn-45" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-40" y="850" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-110" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HhZBf2Nwlb2Q_MQYHaCn-39" value="Connect coach schedule to sessions schedule" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="190" y="816" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HhZBf2Nwlb2Q_MQYHaCn-46" style="edgeStyle=none;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="HhZBf2Nwlb2Q_MQYHaCn-45" target="HhZBf2Nwlb2Q_MQYHaCn-49" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80.49" y="1150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="1065" />
+            </Array>
+            <mxPoint x="-80.48560975609759" y="1034.0243902439024" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9T9c1zZdZ3XtvF7iKhMa-3" value="approved" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HhZBf2Nwlb2Q_MQYHaCn-46">
+          <mxGeometry x="-0.6861" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NogCPBqyMQDwZh9tVgtC-16" style="edgeStyle=none;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;" parent="1" source="HhZBf2Nwlb2Q_MQYHaCn-45" target="NogCPBqyMQDwZh9tVgtC-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-270" y="1065" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-275" y="1070" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9T9c1zZdZ3XtvF7iKhMa-2" value="not approved" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NogCPBqyMQDwZh9tVgtC-16">
+          <mxGeometry x="-0.5206" y="-1" relative="1" as="geometry">
+            <mxPoint x="-40" y="62" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HhZBf2Nwlb2Q_MQYHaCn-45" value="Coach reviews the resulted schedule" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-182.5" y="1000" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HhZBf2Nwlb2Q_MQYHaCn-47" value="Approved" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-45" y="975" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9T9c1zZdZ3XtvF7iKhMa-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HhZBf2Nwlb2Q_MQYHaCn-49" target="NogCPBqyMQDwZh9tVgtC-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HhZBf2Nwlb2Q_MQYHaCn-49" value="Register the final schedule" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="220" y="1139" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9T9c1zZdZ3XtvF7iKhMa-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NogCPBqyMQDwZh9tVgtC-1" target="NogCPBqyMQDwZh9tVgtC-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NogCPBqyMQDwZh9tVgtC-1" value="Show error message" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-187" y="605" width="145" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="NogCPBqyMQDwZh9tVgtC-6" value="Show error, no session available" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="20" y="919.9999999999998" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NogCPBqyMQDwZh9tVgtC-17" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-290" y="1200" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

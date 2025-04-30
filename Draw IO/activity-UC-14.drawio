@@ -1,0 +1,46 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.0.2 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" modified="2025-01-09T13:00:26.542Z" version="23.0.2" etag="_j1r-jqdqJ0PB-oByV1r" type="device">
+  <diagram name="Page-1" id="0fieIQr3IIFADupgfpAD">
+    <mxGraphModel dx="1219" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="B6sDekjDaa7vlkDldqE5-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="370" y="170" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B6sDekjDaa7vlkDldqE5-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="B6sDekjDaa7vlkDldqE5-1" edge="1" target="FWbAiJTCUhpXVmHWGpzI-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FWbAiJTCUhpXVmHWGpzI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FWbAiJTCUhpXVmHWGpzI-1" target="FWbAiJTCUhpXVmHWGpzI-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWbAiJTCUhpXVmHWGpzI-1" value="Select Member" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="325" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FWbAiJTCUhpXVmHWGpzI-3" value="add notes about workout status and nutrition program" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="325" y="340" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FWbAiJTCUhpXVmHWGpzI-4" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="FWbAiJTCUhpXVmHWGpzI-3" parent="1" target="FWbAiJTCUhpXVmHWGpzI-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FWbAiJTCUhpXVmHWGpzI-5" value="Save Notes" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="325" y="433" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FWbAiJTCUhpXVmHWGpzI-6" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="FWbAiJTCUhpXVmHWGpzI-5" parent="1" target="FWbAiJTCUhpXVmHWGpzI-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FWbAiJTCUhpXVmHWGpzI-8" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="370" y="525" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWbAiJTCUhpXVmHWGpzI-9" value="Coach" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="355" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
